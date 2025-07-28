@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/wish.png' alt='CVPR 2025' class="publication-image">
+    <img src='/images/members/ChangseonYu' alt='ChangseonYu' class="publication-image">
 
     <!-- Text Content -->
     <div class="publication-info">
