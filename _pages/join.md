@@ -13,7 +13,7 @@ author_profile: false
 - **용기 있게 배움에 임할 수 있는 분**
 
 체계적인 커리큘럼을 통해, **짧은 시간 안에 탑티어 컨퍼런스 논문 작성이 가능한 수준까지 실력을 끌어올리는 것**을 목표로 합니다.
-아래 내용을 포함하여 **[hyeokjunkweon@cau.ac.kr](mailto:hyeokjunkweon@cau.ac.kr)으로 지원 메일을 보내주세요.
+아래 내용을 포함하여 [hyeokjunkweon@cau.ac.kr](mailto:hyeokjunkweon@cau.ac.kr)으로 지원 메일을 보내주세요.
 
 - **CV 또는 포트폴리오**
 - **학부 성적표**
