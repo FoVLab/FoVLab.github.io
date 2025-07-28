@@ -2,35 +2,26 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+======
+<div style="text-align: center;">
+    <img src='/images/pubs/cvpr2025_wish.png' style="width: 600px; height: auto; margin-bottom: 16px;">
+    <div class="publication-info" style="text-align: left; display: inline-block;">
+        WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels<br>
+        <b>Hyeokjun Kweon</b>, Kuk-Jin Yoon<br>
+        <b>CVPR 2025 Highlight (Top 2.6% of submissions)</b><br>
+    </div>
+</div>
 
-{% include base_path %}
+======
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<div style="text-align: center;">
+    <img src='/images/pubs/cvpr2025_wish.png' style="width: 600px; height: auto; margin-bottom: 16px;">
+    <div class="publication-info" style="text-align: left; display: inline-block;">
+        WISH: Weakly Supervised Instance Segmentation using Heterogeneous Labels<br>
+        <b>Hyeokjun Kweon</b>, Kuk-Jin Yoon<br>
+        <b>CVPR 2025 Highlight (Top 2.6% of submissions)</b><br>
+    </div>
+</div>
