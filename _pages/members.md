@@ -8,7 +8,7 @@ author_profile: false
 Professor
 ---
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/HyeokjunKweon.jpg' alt='HyeokjunKweon' style="width: 200px; height: auto;">
+    <img src='/images/members/HyeokjunKweon.jpg' alt='HyeokjunKweon' style="width: 200px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -16,6 +16,7 @@ Professor
             Hyeokjun Kweon<br>
         </div>
         E-mail: hyeokjunkweon@cau.ac.kr <br>
+        <a href="https://scholar.google.com/citations?user=em3aymgAAAAJ&hl=en">Scholar</a> | <a href="https://sangrockeg.github.io/">Homepage</a> <br>
         Interests: Data-efficient Learning, Segmentation, 3D Vision, Test-time Adaptation <br>
     </div>
 </div>
@@ -27,7 +28,7 @@ M.S. Students
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/ChangseonYu.jpg' alt='ChangseonYu' style="width: 200px; height: auto;">
+    <img src='/images/members/ChangseonYu.jpg' alt='ChangseonYu' style="width: 200px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -41,7 +42,7 @@ M.S. Students
 <br/>
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/HongseokCho.jpg' alt='HongseokCho' style="width: 200px; height: auto;">
+    <img src='/images/members/HongseokCho.jpg' alt='HongseokCho' style="width: 200px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
