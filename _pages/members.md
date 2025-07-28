@@ -85,12 +85,12 @@ author_profile: false
 <br/>
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/GyubinLee' alt='GyubinLee' style="width: 200px; height: auto; margin-right: 16px;">
+    <img src='/images/members/GuebeenLee.jpg' alt='GuebeenLee' style="width: 200px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
         <div style="font-size: 28px; font-weight: bold;">
-            Gyubin Lee<br>
+            Guebeen Lee<br>
         </div>
         doyeonpark@cau.ac.kr <br>
         <a href="TBD">CV</a> | <a href="TBD">Scholar</a> | <a href="TBD">Homepage</a> <br>
