@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 The Foundational Vision Laboratory (FoV Lab) is affiliated with the Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) at Chung-Ang University (CAU) in Seoul, Korea. <br>
-FoV Lab explore the fundamental principles that enable intelligent visual systems to perceive, understand, and interact with the world.
+FoV Lab explores the fundamental principles that enable intelligent visual systems to perceive, understand, and interact with the world.
 
 Our mission is to develop generalizable, data-efficient, and human-aligned AI models. We tackle core challenges in visual perception, domain adaptation, multi-modal understanding, and human-AI collaboration.
 
