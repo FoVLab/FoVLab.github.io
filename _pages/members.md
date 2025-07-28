@@ -92,7 +92,7 @@ author_profile: false
         <div style="font-size: 28px; font-weight: bold;">
             Guebeen Lee<br>
         </div>
-        doyeonpark@cau.ac.kr <br>
+        dlrbqls831@gmail.com <br>
         <a href="TBD">CV</a> | <a href="TBD">Scholar</a> | <a href="TBD">Homepage</a> <br>
         Research Interests: TBD <br>
     </div>
@@ -107,7 +107,7 @@ author_profile: false
         <div style="font-size: 28px; font-weight: bold;">
             Jeongyeon Lee<br>
         </div>
-        doyeonpark@cau.ac.kr <br>
+        jeongyeonlee@cau.ac.kr <br>
         <a href="TBD">CV</a> | <a href="TBD">Scholar</a> | <a href="TBD">Homepage</a> <br>
         Research Interests: TBD <br>
     </div>
