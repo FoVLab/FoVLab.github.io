@@ -17,6 +17,7 @@ author_profile: false
         <div style="font-size: 28px; font-weight: bold;">
             Hyeokjun Kweon<br>
         </div>
+        Assistant Professor, GSAIM, CAU
         hyeokjunkweon@cau.ac.kr <br>
         <a href="https://sangrockeg.github.io/assets/cv_hyeokjun_kweon_241204.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=em3aymgAAAAJ&hl=en">Scholar</a> | <a href="https://sangrockeg.github.io/">Homepage</a> <br>
         Research Interests: Data-efficient Learning, Segmentation, <br>
