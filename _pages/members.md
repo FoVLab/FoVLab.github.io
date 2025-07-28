@@ -5,8 +5,11 @@ permalink: /members/
 author_profile: false
 ---
 
+M.S. Students
+---
+
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/ChangseonYu.jpg' alt='ChangseonYu' class="publication-image">
+    <img src='/images/members/ChangseonYu.jpg' alt='ChangseonYu' style="width: 100px; height: auto;">
 
     <!-- Text Content -->
     <div class="publication-info">
