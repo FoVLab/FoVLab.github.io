@@ -10,7 +10,7 @@ author_profile: false
 </div>
 ---
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/HyeokjunKweon.jpg' alt='HyeokjunKweon' style="width: 200px; height: auto; margin-right: 16px;">
+    <img src='/images/members/HyeokjunKweon.jpg' alt='HyeokjunKweon' style="width: 180px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -19,7 +19,7 @@ author_profile: false
         </div>
         hyeokjunkweon@cau.ac.kr <br>
         <a href="https://sangrockeg.github.io/assets/cv_hyeokjun_kweon_241204.pdf">CV</a> | <a href="https://scholar.google.com/citations?user=em3aymgAAAAJ&hl=en">Scholar</a> | <a href="https://sangrockeg.github.io/">Homepage</a> <br>
-        Research Interests: Data-efficient Learning, Segmentation <br>
+        Research Interests: Data-efficient Learning, Segmentation, <br>
         3D Vision, Test-Time Adaptation <br>
     </div>
 </div>
@@ -33,7 +33,7 @@ author_profile: false
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/ChangseonYu.jpg' alt='ChangseonYu' style="width: 200px; height: auto; margin-right: 16px;">
+    <img src='/images/members/ChangseonYu.jpg' alt='ChangseonYu' style="width: 180px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -48,7 +48,7 @@ author_profile: false
 <br/>
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/HongseokCho.jpg' alt='HongseokCho' style="width: 200px; height: auto; margin-right: 16px;">
+    <img src='/images/members/HongseokCho.jpg' alt='HongseokCho' style="width: 180px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -70,7 +70,7 @@ author_profile: false
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/DoyeonPark.jpg' alt='DoyeonPark' style="width: 200px; height: auto; margin-right: 16px;">
+    <img src='/images/members/DoyeonPark.jpg' alt='DoyeonPark' style="width: 180px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -85,7 +85,7 @@ author_profile: false
 <br/>
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/GuebeenLee.jpg' alt='GuebeenLee' style="width: 200px; height: auto; margin-right: 16px;">
+    <img src='/images/members/GuebeenLee.jpg' alt='GuebeenLee' style="width: 180px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
@@ -100,7 +100,7 @@ author_profile: false
 <br/>
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/JeongyeonLee.jpg' alt='JeongyeonLee' style="width: 200px; height: auto; margin-right: 16px;">
+    <img src='/images/members/JeongyeonLee.jpg' alt='JeongyeonLee' style="width: 180px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
