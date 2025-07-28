@@ -13,9 +13,27 @@ M.S. Students
 
     <!-- Text Content -->
     <div class="publication-info">
-        <b>Changseon Yu</b><br>
-        E-mail: ChangseonYu@cau.ac.kr
-        Interests: Representation Learning
+        <div style="font-size: 16px; font-weight: bold;">
+            Changseon Yu<br>
+        </div>
+        E-mail: ChangseonYu@cau.ac.kr <br>
+        Interests: Representation Learning <br>
     </div>
 </div>
 <br/>
+
+<div style="display: flex; align-items: center;">
+    <img src='/images/members/HongseokCho.jpg' alt='HongseokCho' style="width: 200px; height: auto;">
+
+    <!-- Text Content -->
+    <div class="publication-info">
+        <b>Hongseok Cho</b> <br>
+        E-mail: HongseokCho@cau.ac.kr <br>
+        Interests: Vision-Language Model <br>
+    </div>
+</div>
+<br/>
+
+Undergraduate Students
+---
+
