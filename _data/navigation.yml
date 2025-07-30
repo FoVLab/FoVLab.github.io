@@ -14,13 +14,6 @@ main:
     
   - title: "Members"
     url: /members/
-
-  - title: "Research"
-    url: /research/
   
   - title: "Publications"
     url: /publications/
-  
-  - title: "Projects"
-    url: /projects/   
-
