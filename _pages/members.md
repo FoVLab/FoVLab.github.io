@@ -71,7 +71,7 @@ author_profile: false
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src='/images/members/DoyeonPark.jpg' alt='DoyeonPark' style="width: 180px; height: auto; margin-right: 16px;">
+    <img src='/images/members/DoyeonPark.png' alt='DoyeonPark' style="width: 180px; height: auto; margin-right: 16px;">
 
     <!-- Text Content -->
     <div class="publication-info">
